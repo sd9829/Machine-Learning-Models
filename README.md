@@ -10,7 +10,7 @@ Each notebook corresponds to different assignments, exercises, or projects compl
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/sd9829/Machine-Learning-Models.git
 
 ## Requirements
 
