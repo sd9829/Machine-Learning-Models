@@ -14,9 +14,9 @@ Each notebook corresponds to different assignments, exercises, or projects compl
 
 ## Requirements
 
-Python 3.x
-Jupyter Notebook or JupyterLab
-Common Python libraries (NumPy, Pandas, Matplotlib, scikit-learn, etc.)
+- Python 3.x
+- Jupyter Notebook or JupyterLab
+- Common Python libraries (NumPy, Pandas, Matplotlib, scikit-learn, etc.)
 
 ## Notes
 
